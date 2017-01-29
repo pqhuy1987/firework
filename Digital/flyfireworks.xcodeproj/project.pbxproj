@@ -1085,7 +1085,7 @@
 				ORGANIZATIONNAME = zlot;
 				TargetAttributes = {
 					CB03737F18C5C5E00018586A = {
-						DevelopmentTeam = JQNK74493B;
+						DevelopmentTeam = FSP2U7T379;
 					};
 				};
 			};
@@ -1364,7 +1364,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = JQNK74493B;
+				DEVELOPMENT_TEAM = FSP2U7T379;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = flyfireworks/Prefix.pch;
@@ -1376,7 +1376,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.studio.firework.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.firework.100;
 				PRODUCT_NAME = flyfireworks;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1392,7 +1392,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = JQNK74493B;
+				DEVELOPMENT_TEAM = FSP2U7T379;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = flyfireworks/Prefix.pch;
 				HEADER_SEARCH_PATHS = "\"flyfireworks/libs/kazmath/include\"";
@@ -1403,7 +1403,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.studio.firework.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.firework.100;
 				PRODUCT_NAME = flyfireworks;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
