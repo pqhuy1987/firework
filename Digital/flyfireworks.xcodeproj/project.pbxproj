@@ -1376,7 +1376,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digital.firework.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.firework2.100;
 				PRODUCT_NAME = flyfireworks;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1403,7 +1403,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digital.firework.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.firework2.100;
 				PRODUCT_NAME = flyfireworks;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
